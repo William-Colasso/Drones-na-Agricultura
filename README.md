@@ -41,4 +41,4 @@ O site será dividido em seções como:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/drones-na-agricultura.git
+   git clone https://github.com/William-Colasso/Drones-na-Agricultura.git
