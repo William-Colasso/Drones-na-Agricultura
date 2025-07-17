@@ -5,7 +5,7 @@
 }
 
 body {
-  font-family: 'Segoe UI', sans-serif;
+  font-family: "Segoe UI", sans-serif;
   line-height: 1.6;
   background: #f5f5f5;
   color: #333;
@@ -54,11 +54,14 @@ li {
   padding: 30px 0;
 }
 
-.img-block img {
+.img-block img,
+.img-block iframe {
+  width: 90%;
+  height: 500px;
   max-width: 90%;
-  height: auto;
+  max-height: 100%;
   border-radius: 12px;
-  box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
 }
 
 footer {
@@ -76,7 +79,7 @@ footer {
   position: sticky;
   top: 0;
   z-index: 999;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
 .top-nav a {
@@ -107,7 +110,6 @@ header button:hover {
   background-color: #4caf50;
   color: white;
 }
-
 
 #extra-info {
   text-align: center;
