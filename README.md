@@ -19,8 +19,8 @@ Este projeto tem como foco:
 
 - HTML5
 - CSS3
-- JavaScript (opcional para interatividade)
-- [Opcional] Frameworks como Bootstrap ou TailwindCSS para layout responsivo
+- JavaScript (interatividade)
+- Frameworks como Bootstrap ou TailwindCSS para layout responsivo
 
 ---
 
